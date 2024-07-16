@@ -1,0 +1,46 @@
+html{
+    background-color: #DDDDDD;
+}
+header {
+    border-style:double;
+    border-width: 6px;
+    border-color: #992222;
+    border-radius: 10px;
+    background: rgb(211, 210, 208);
+    padding: 5px;
+    text-align: left;
+    line-height: 2px;
+}
+p{
+    color: #DDDDDD;
+    Background-color: #362e2e;
+}
+
+.title{
+    color: #727061;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.subtitle{
+    color: #ca3636;
+}
+.backgrounded{
+    background-color: #c2c0b5;
+    padding: 10px;
+}
+.point{
+    color: currentColor;
+    transition: color 10s ease;
+}
+.point:hover{
+    filter: brightness(80%);
+}
+#Carreer{
+    border-style:inset;
+    border-width: 4px;
+    border-color: #ff0000;
+}
+#header{
+    font-family: system-ui;
+}
