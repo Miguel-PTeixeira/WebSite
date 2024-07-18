@@ -13,7 +13,10 @@ header {
 }
 p{
     color: #DDDDDD;
-    Background-color: #362e2e;
+}
+div{
+    background-color:#DDDDDD;
+    padding: 5px;
 }
 
 .title{
