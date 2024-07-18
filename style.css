@@ -12,7 +12,6 @@ head {
     line-height: 2px;
 }
 p{
-    color: #DDDDDD;
 }
 div{
     background-color:#DDDDDD;
@@ -35,6 +34,9 @@ div{
 .point{
     color: currentColor;
     transition: color 10s ease;
+}
+.point::before{
+    content:"   -"
 }
 .point:hover{
     filter: brightness(80%);
