@@ -3,5 +3,5 @@ function test() {
     return ok
 }
 
-print(test()) // prints the output
+//print() // Tells the site to Print the page!!
 console.log(test()) // sends the output to the console
