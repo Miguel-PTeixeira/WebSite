@@ -35,7 +35,7 @@ div{
     color: currentColor;
     transition: color 10s ease;
 }
-.point::before{
+.point:before{
     content:"   -"
 }
 .point:hover{
